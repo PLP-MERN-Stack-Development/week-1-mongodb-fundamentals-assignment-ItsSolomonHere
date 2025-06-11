@@ -24,7 +24,6 @@ Learn the fundamentals of MongoDB, including installation, creating collections,
 - Write MongoDB queries to:
   - Find all books in a specific genre
   - Find books published after a certain year
-  - Find books by a specific author
   - Update the price of a specific book
   - Delete a book by its title
 
